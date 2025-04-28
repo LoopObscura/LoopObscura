@@ -36,7 +36,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,sklearn,mongodb,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,sklearn,mongodb,tensorflow,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,fastapi,mysql,html,css,nodejs,javascript,django,vite" />
+  <img src="https://skillicons.dev/icons?i=git,fastapi,flask,html,css,nodejs,javascript,django,vite" />
 </p>
