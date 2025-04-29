@@ -7,7 +7,7 @@
 <h3 align="center">AnAI/ML Developer with a focus on finance and quantitative trading. Exploring algorithmic strategies, data pipelines, and applied machine learning in finance, from Bangalore, India 🇨🇦</h3>
 
 <br/>
-f
+
 <div align="center">
  
  🔭 I’m currently working on **Neural Network Projects mainly CNN's**
