@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Neural Network Projects mainly CNN's**
+ 🔭 I’m currently working on **On a Options Pricing Model Using Black Schole, Monte Carlo and Binary tree Methods**
  
- 🌱 I’m currently learning **Docker, AWS, Kubernetees**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 I’m currently learning **Docker**
 
  </div>
  
