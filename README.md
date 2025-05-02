@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,sklearn,mongodb,tensorflow,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,fastapi,flask,html,css,nodejs,javascript,django,vite" />
+  <img src="https://skillicons.dev/icons?i=git,fastapi,flask,html,css,nodejs,react,javascript,django,vite" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEPACIOUS/DEPACIOUS/output/github-snake-dark.svg" />
