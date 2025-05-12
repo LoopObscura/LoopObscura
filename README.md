@@ -43,3 +43,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEPACIOUS/DEPACIOUS/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DEPACIOUS/DEPACIOUS/output/github-snake.svg" />
 </picture>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
