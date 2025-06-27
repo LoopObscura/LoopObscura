@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Myself+Benson;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I+am+Benson;" />
+	
 </h1>
 
 <h3 align="center">AnAI/ML Developer with a focus on finance and quantitative trading. Exploring algorithmic strategies, data pipelines, and applied machine learning in finance, from Bangalore, India 🇨🇦</h3>
