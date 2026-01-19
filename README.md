@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **On a Options Pricing Model Using Black Schole, Monte Carlo and Binary tree Methods**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **Kubernetees**
 
  </div>
  
